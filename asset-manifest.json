@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/e-commerce/static/css/main.9251eba9.chunk.css",
+    "main.js": "/e-commerce/static/js/main.8b504ba0.chunk.js",
+    "main.js.map": "/e-commerce/static/js/main.8b504ba0.chunk.js.map",
+    "runtime~main.js": "/e-commerce/static/js/runtime~main.8575550b.js",
+    "runtime~main.js.map": "/e-commerce/static/js/runtime~main.8575550b.js.map",
+    "static/js/2.202a29c5.chunk.js": "/e-commerce/static/js/2.202a29c5.chunk.js",
+    "static/js/2.202a29c5.chunk.js.map": "/e-commerce/static/js/2.202a29c5.chunk.js.map",
+    "index.html": "/e-commerce/index.html",
+    "precache-manifest.0e08218ee97a428a5d130e84c2433e62.js": "/e-commerce/precache-manifest.0e08218ee97a428a5d130e84c2433e62.js",
+    "service-worker.js": "/e-commerce/service-worker.js",
+    "static/css/main.9251eba9.chunk.css.map": "/e-commerce/static/css/main.9251eba9.chunk.css.map",
+    "static/media/crown.ed28accb.svg": "/e-commerce/static/media/crown.ed28accb.svg"
+  }
+}
