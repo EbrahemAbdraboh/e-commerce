@@ -37,9 +37,9 @@ class App extends React.Component {
       <div>
         <Header currentUser={this.state.currentUser} />
         <Switch>
-          <Route exact path='/' component={HomePage} />
-          <Route path='/shop' component={ShopPage} />
-          <Route path='/signin' component={SignInAndSignUpPage} />
+          <Route exact path={process.env.PUBLIC_URL + "/"} component={HomePage} />
+          <Route path={process.env.PUBLIC_URL + "/shop"} component={ShopPage} />
+          <Route path={process.env.PUBLIC_URL + "/signin"} component={SignInAndSignUpPage} />
         </Switch>
       </div>
     );
